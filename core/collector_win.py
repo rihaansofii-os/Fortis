@@ -44,3 +44,4 @@ def collect_signals():
     signals["cred_exposures"] = extract_credentials()
 
     return signals
+
