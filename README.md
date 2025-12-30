@@ -33,4 +33,5 @@ For authorized red team, penetration testing, and lab environments only.
 
 ## Author
 
-Rihaan Sofi
+BlackHat Rihaan
+
